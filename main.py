@@ -42,4 +42,4 @@ async def coinflip(ctx):
     await ctx.send(random.choice(["Heads!", "Tails!"]))
 
 # Run bot
-bot.run("YOUR_BOT_TOKEN")
+bot.run("8665621150:AAE1AYh-ZNs0md9mvB3X8RxgUGpZbeef9XE")
